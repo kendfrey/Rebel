@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RebelCore", "RebelCore\RebelCore.csproj", "{45D973B3-D45C-451A-9CD3-8628A9937F85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebel", "Rebel\Rebel.csproj", "{0A908C90-BCE2-4FB6-B17C-082EE338DE83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualRebel", "VisualRebel\VisualRebel.csproj", "{7DB08AB5-A52B-4E5B-8EBF-E439933A23F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45D973B3-D45C-451A-9CD3-8628A9937F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D973B3-D45C-451A-9CD3-8628A9937F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D973B3-D45C-451A-9CD3-8628A9937F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D973B3-D45C-451A-9CD3-8628A9937F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A908C90-BCE2-4FB6-B17C-082EE338DE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A908C90-BCE2-4FB6-B17C-082EE338DE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A908C90-BCE2-4FB6-B17C-082EE338DE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A908C90-BCE2-4FB6-B17C-082EE338DE83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DB08AB5-A52B-4E5B-8EBF-E439933A23F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB08AB5-A52B-4E5B-8EBF-E439933A23F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB08AB5-A52B-4E5B-8EBF-E439933A23F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB08AB5-A52B-4E5B-8EBF-E439933A23F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
