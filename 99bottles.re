@@ -1,0 +1,1 @@
+@99!0123456789/(?<=@)0//@(1)(?=!)/#$1$>$1 bottle of beer on the wall/#(1)(?=!)/%$1$>$1 bottle of beer/@(\d+)/#$1$>$1 bottles of beer on the wall/#(\d+)/%$1$>$1 bottles of beer/%/&$>Take one down and pass it around/&(\d?)([1-9])(?=!\d*(\d)\2)/@$1$3/&([1-9])0(?=!\d*(?<A>\d)\1)/@${A}9/@(?=!)/$>No more bottles of beer on the wall
